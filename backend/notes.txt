@@ -1,0 +1,7 @@
+multer 
+    Fazer upload de imagens e trata requisições multpart form
+
+sharp
+    Manipulação de imagens, redimensionamento
+
+
